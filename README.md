@@ -1,2 +1,12 @@
-# Image-Viewer_application
-# Image-Viewer-Application &lt;h2>I have created a Image Viewer application using python tkinker module.&lt;/h2> &lt;ol> &lt;li>Install Python from &lt;a href='https://www.python.org/downloads/' target='_blanck'>Download Python&lt;/a>&lt;/li> &lt;li> Use Command &lt;b>pip install pillow &lt;/b>&lt;/li>  &lt;li> Use Command &lt;b>pip install tkinter &lt;/b>&lt;/li> &lt;li> After that run this Image-Viewer_Application &lt;/li>    &lt;/ol> &lt;h3>Application&lt;/h3> &lt;h4>Browse : &lt;/h4> &lt;p>Click on the browse button and select the image file you want to see.&lt;/p>
+# Image-Viewer-Application
+<h2>I have created a Image Viewer application using python tkinker module.</h2>
+<ol>
+<li>Install Python from <a href='https://www.python.org/downloads/' target='_blanck'>Download Python</a></li>
+<li> Use Command <b>pip install pillow </b></li>
+ <li> Use Command <b>pip install tkinter </b></li>
+<li> After that run this Image-Viewer_Application </li>
+  
+</ol>
+<h3>Application</h3>
+<h4>Browse : </h4>
+<p>Click on the browse button and select the image file you want to see.</p>
